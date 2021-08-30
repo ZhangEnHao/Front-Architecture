@@ -1,0 +1,29 @@
+{
+  "detail": {
+    "totalInvestmentAmt": 494902.78,
+    "totalBillAmt": 500000.00,
+    "totalDueYield": 5097.22,
+    "weightedAverageYield": 0.0367,
+    "totalBillCnt": 1,
+    "checkList": [
+      78
+    ],
+    "isPartSubmit": "NO",
+    "latestRepayTime": 1474560000000,
+    "itrtBeginTime": null
+  },
+  "invest": {
+    "bar": {
+      "2016-07": 650000.00,
+      "2016-09": 500000.00
+    },
+    "pie": {
+      "国行": 500000.00,
+      "股份": 400000.00,
+      "城商": 200000.00,
+      "农商": 300000.00,
+      "农信": 400000.00,
+      "其他": 250000.00
+    }
+  }
+}

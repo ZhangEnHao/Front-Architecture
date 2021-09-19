@@ -47,3 +47,4 @@
 
 - [数据结构和算法目录](https://www.jianshu.com/p/38853c044156)
 
+- [TypeScript数据结构与算法：栈](https://juejin.cn/post/6944705046458138637)

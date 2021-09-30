@@ -1,2 +1,2 @@
-1. [剖析Promise内部结构，一步一步实现一个完整的、能通过所有Test case的Promise类](https://github.com/xieranmaya/blog/issues/3)
+[Promise的源码实现（完美符合Promise/A+规范）](https://juejin.cn/post/6844903796129136654)
 

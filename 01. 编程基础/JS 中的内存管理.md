@@ -370,5 +370,8 @@ setInterval(replaceThing, 1000);
 所以在 `JS` 这类高级语言中，有必要掌握基础内存分配原理，在对内存敏感的场景，比如 `nodejs` 代码做严格检查与优化。谨慎使用 `dom` 操作、主动删除没有业务意义的变量、避免提前优化、过度优化，在保证代码可读性的前提下，利用性能监控工具，通过调用栈定位问题代码。
 
 
+[深入理解Chrome V8垃圾回收机制 ](https://github.com/yacan8/blog/issues/33)
 
 [4 类 JavaScript 内存泄漏及如何避免](https://jinlong.github.io/2016/05/01/4-Types-of-Memory-Leaks-in-JavaScript-and-How-to-Get-Rid-Of-Them/)
+
+[JavaScript 工作原理：内存管理 + 处理常见的 4 种内存泄漏](https://juejin.cn/post/6844903519078580238)

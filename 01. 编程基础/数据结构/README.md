@@ -1,18 +1,6 @@
-## 什么是数据结构
+## 数据结构
 
-数据结构就是在计算机中，存储和组织数据都方式。
-
-计算机中的数据量非常大，如何以高效的方式组合和存储呢？
-
-- 解决问题方法的效率，和数据的组织方式有关
-
-- 计算机中存储的数据量更大，数据种类更多
-
-- 以什么样的方式来存储和组织数据才能在使用数据时更加方便
-
-这就是数据结构需要考虑的问题。
-
-**了解真相，才能获得真正的自由**
+数据结构是在计算机中组织和存储数据的一种特殊方式，使得数据可以高效地被访问和修改。更确切地说，数据结构是数据值的集合，表示数据之间的关系，也包括了作用在数据上的函数或操作。
 
 ## 逻辑结构与代码表现
 
@@ -28,23 +16,30 @@
 
 ...
 
-## 什么是算法（Algorithm）
+`B` - 初学者， `A` - 进阶
 
-- 一个有限指令集，每条指令的描述不依赖于语言
-
-- 接收一些输入（有些情况下不需要输入）
-
-- 产生输出
-
-- 一定在有限步骤之后终止
-
-通俗解释：解决问题的方法 / 步骤逻辑。
-数据结构的实现，离不开算法
-
-
+- `B` [链表](src/data-structures/linked-list/README.zh-CN.md)
+- `B` [双向链表](src/data-structures/doubly-linked-list/README.zh-CN.md)
+- `B` [队列](src/data-structures/queue/README.zh-CN.md)
+- `B` [栈](src/data-structures/stack/README.zh-CN.md)
+- `B` [哈希表](src/data-structures/hash-table/README.zh-CN.md)
+- `B` [堆](src/data-structures/heap/README.zh-CN.md) - 最大堆 & 最小堆
+- `B` [优先队列](src/data-structures/priority-queue/README.zh-CN.md)
+- `A` [字典树](src/data-structures/trie/README.zh-CN.md)
+- `A` [树](src/data-structures/tree/README.zh-CN.md)
+  - `A` [二叉查找树](src/data-structures/tree/binary-search-tree)
+  - `A` [AVL 树](src/data-structures/tree/avl-tree)
+  - `A` [红黑树](src/data-structures/tree/red-black-tree)
+  - `A` [线段树](src/data-structures/tree/segment-tree) - 使用 `最小/最大/总和` 范围查询示例
+  - `A` [树状数组](src/data-structures/tree/fenwick-tree) (二叉索引树)
+- `A` [图](src/data-structures/graph/README.zh-CN.md) (有向图与无向图)
+- `A` [并查集](src/data-structures/disjoint-set)
+- `A` [布隆过滤器](src/data-structures/bloom-filter)
 
 参考文章
 
 - [数据结构和算法目录](https://www.jianshu.com/p/38853c044156)
 
-- [TypeScript数据结构与算法：栈](https://juejin.cn/post/6944705046458138637)
+- [TypeScript 数据结构与算法：栈](https://juejin.cn/post/6944705046458138637)
+
+- [awesome-coding-js](http://www.conardli.top/docs/)

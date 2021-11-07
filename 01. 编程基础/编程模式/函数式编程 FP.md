@@ -1,3 +1,5 @@
+[函数式编程指北](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/)
+
 ## 函数式编程
 
 - 实现最小粒度的函数封装、组合、复用（积木逻辑）

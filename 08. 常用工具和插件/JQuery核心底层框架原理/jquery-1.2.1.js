@@ -145,107 +145,108 @@
 	
 		// 定义 jQuery 的本地副本
 		jQuery = function( selector, context ) {
-	
-			// The jQuery object is actually just the init constructor 'enhanced'
-			// Need init if jQuery is called (just allow error to be thrown if not included)
-			// jQuery 对象实际上只是“增强 enhanced ”的初始化构造函数
-			// 如果 jQuery 被调用，则需要 init（如果不包含则允许抛出错误）
-			return new jQuery.fn.init( selector, context );
-		};
+      // jQuery 对象实际上只是“增强 enhanced ”的初始化构造函数
+      // 如果 jQuery 被调用，则需要 init（如果不包含则允许抛出错误）
+      // 返回new之后的对象
+      return new jQuery.fn.init(selector, context);
+    };
 
 	// fn === function 不是 函数 而是 功能s
 	jQuery.fn = jQuery.prototype = {
-	
-		// 当前使用的 jQuery 版本
-		jquery: version,
-	
-		constructor: jQuery,
-	
-		// jQuery 对象的默认长度为 0
-		length: 0,
-	
-		toArray: function() {
-			return slice.call( this );
-		},
-	
-		// Get the Nth element in the matched element set OR
-		// Get the whole matched element set as a clean array
-		get: function( num ) {
-	
-			// Return all the elements in a clean array
-			if ( num == null ) {
-				return slice.call( this );
-			}
-	
-			// Return just the one element from the set
-			return num < 0 ? this[ num + this.length ] : this[ num ];
-		},
-	
-		// Take an array of elements and push it onto the stack
-		// (returning the new matched element set)
-		pushStack: function( elems ) {
-	
-			// Build a new jQuery matched element set
-			var ret = jQuery.merge( this.constructor(), elems );
-	
-			// Add the old object onto the stack (as a reference)
-			ret.prevObject = this;
-	
-			// Return the newly-formed element set
-			return ret;
-		},
-	
-		// Execute a callback for every element in the matched set.
-		each: function( callback ) {
-			return jQuery.each( this, callback );
-		},
-	
-		map: function( callback ) {
-			return this.pushStack( jQuery.map( this, function( elem, i ) {
-				return callback.call( elem, i, elem );
-			} ) );
-		},
-	
-		slice: function() {
-			return this.pushStack( slice.apply( this, arguments ) );
-		},
-	
-		first: function() {
-			return this.eq( 0 );
-		},
-	
-		last: function() {
-			return this.eq( -1 );
-		},
-	
-		even: function() {
-			return this.pushStack( jQuery.grep( this, function( _elem, i ) {
-				return ( i + 1 ) % 2;
-			} ) );
-		},
-	
-		odd: function() {
-			return this.pushStack( jQuery.grep( this, function( _elem, i ) {
-				return i % 2;
-			} ) );
-		},
-	
-		eq: function( i ) {
-			var len = this.length,
-				j = +i + ( i < 0 ? len : 0 );
-			return this.pushStack( j >= 0 && j < len ? [ this[ j ] ] : [] );
-		},
-	
-		end: function() {
-			return this.prevObject || this.constructor();
-		},
-	
-		// For internal use only.
-		// Behaves like an Array's method, not like a jQuery method.
-		push: push,
-		sort: arr.sort,
-		splice: arr.splice
-	};
+    // 当前使用的 jQuery 版本
+    jquery: version,
+    // 修正构造器为jQuery
+    constructor: jQuery,
+
+    // jQuery 对象的默认长度为 0
+    length: 0,
+
+    toArray: function () {
+      return slice.call(this);
+    },
+
+    // Get the Nth element in the matched element set OR
+    // Get the whole matched element set as a clean array
+    get: function (num) {
+      // Return all the elements in a clean array
+      if (num == null) {
+        return slice.call(this);
+      }
+
+      // Return just the one element from the set
+      return num < 0 ? this[num + this.length] : this[num];
+    },
+
+    // Take an array of elements and push it onto the stack
+    // (returning the new matched element set)
+    pushStack: function (elems) {
+      // Build a new jQuery matched element set
+      var ret = jQuery.merge(this.constructor(), elems);
+
+      // Add the old object onto the stack (as a reference)
+      ret.prevObject = this;
+
+      // Return the newly-formed element set
+      return ret;
+    },
+
+    // Execute a callback for every element in the matched set.
+    each: function (callback) {
+      return jQuery.each(this, callback);
+    },
+
+    map: function (callback) {
+      return this.pushStack(
+        jQuery.map(this, function (elem, i) {
+          return callback.call(elem, i, elem);
+        })
+      );
+    },
+
+    slice: function () {
+      return this.pushStack(slice.apply(this, arguments));
+    },
+
+    first: function () {
+      return this.eq(0);
+    },
+
+    last: function () {
+      return this.eq(-1);
+    },
+
+    even: function () {
+      return this.pushStack(
+        jQuery.grep(this, function (_elem, i) {
+          return (i + 1) % 2;
+        })
+      );
+    },
+
+    odd: function () {
+      return this.pushStack(
+        jQuery.grep(this, function (_elem, i) {
+          return i % 2;
+        })
+      );
+    },
+
+    eq: function (i) {
+      var len = this.length,
+        j = +i + (i < 0 ? len : 0);
+      return this.pushStack(j >= 0 && j < len ? [this[j]] : []);
+    },
+
+    end: function () {
+      return this.prevObject || this.constructor();
+    },
+
+    // For internal use only.
+    // Behaves like an Array's method, not like a jQuery method.
+    push: push,
+    sort: arr.sort,
+    splice: arr.splice,
+  };
 	
 	/**
     $.extend的用法。 第一个参数是决定是否需要深复制。 由 true, false。 默认是浅复制
@@ -3241,7 +3242,7 @@
 			return jQuery.makeArray( selector, this );
 		};
 	
-	// Give the init function the jQuery prototype for later instantiation
+	// 为init函数提供jQuery原型，以便以后实例化
 	init.prototype = jQuery.fn;
 	
 	// Initialize central reference
@@ -10832,9 +10833,11 @@
 	};
 	
 	
-	
-	// Register as a named AMD module, since jQuery can be concatenated with other
-	// files that may use define, but not via a proper concatenation script that
+	/**
+	 * 注册为命名的AMD模块，
+	 * 
+	 * */ 
+	// since jQuery can be concatenated with other files that may use define, but not via a proper concatenation script that
 	// understands anonymous AMD modules. A named AMD is safest and most robust
 	// way to register. Lowercase jquery is used because AMD module names are
 	// derived from file names, and jQuery is normally delivered in a lowercase
@@ -10855,13 +10858,12 @@
 	
 	
 	
-	var
+	var 
 	
-		// Map over jQuery in case of overwrite
-		_jQuery = window.jQuery,
-	
-		// Map over the $ in case of overwrite
-		_$ = window.$;
+		// 覆盖时映射到jQuery
+    _jQuery = window.jQuery,
+    // 覆盖时映射到$
+    _$ = window.$;
 	
 	jQuery.noConflict = function( deep ) {
 		if ( window.$ === jQuery ) {

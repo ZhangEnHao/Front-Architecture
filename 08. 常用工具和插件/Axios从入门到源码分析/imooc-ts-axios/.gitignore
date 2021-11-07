@@ -1,8 +1,0 @@
-.idea
-node_modules
-yarn.lock
-dist
-.rpt2_cache
-coverage
-*.log
-upload-file/*

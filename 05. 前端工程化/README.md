@@ -57,4 +57,8 @@ eg: [前端工程化内容](../images/FrontEngineerInfo.jpg)
 
 [精读《如何编译前端项目与组件》](https://github.com/ascoders/weekly/blob/master/%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF/89.%E7%B2%BE%E8%AF%BB%E3%80%8A%E5%A6%82%E4%BD%95%E7%BC%96%E8%AF%91%E5%89%8D%E7%AB%AF%E9%A1%B9%E7%9B%AE%E4%B8%8E%E7%BB%84%E4%BB%B6%E3%80%8B.md)
 
+[senntyou](https://www.jianshu.com/u/26ce9d256997)
 
+[前端工程之模块化](http://fex.baidu.com/blog/2014/03/fis-module/)
+
+[fouber/blog](https://github.com/fouber/blog)

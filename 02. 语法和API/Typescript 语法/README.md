@@ -2,6 +2,8 @@
 
 [TypeScript 官方文档](https://www.typescriptlang.org/docs/)
 
+[TypeScript Handbook](https://zhongsp.gitbooks.io/typescript-handbook/content/)
+
 推荐文章
 
 [TypeScript 入门教程](https://ts.xcatliu.com/)

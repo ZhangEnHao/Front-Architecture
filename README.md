@@ -32,7 +32,11 @@
 
 [从输入 URL 到页面加载的过程？如何由一道题完善自己的前端知识体系！](https://dailc.github.io/2018/03/12/whenyouenteraurl.html)
 
+[写给初中级前端的高级进阶指南（万字路线）](https://mp.weixin.qq.com/s/0jtVxlh-toEmNbwJpIfAuA)
+
 ### 博客
+
+[前端程序员炼成手册](https://www.yuque.com/jeffwcx/festudy)
 
 [all-of-frontend](https://github.com/KieSun/all-of-frontend)
 
@@ -64,6 +68,8 @@
 
 [sl1673495/blogs](https://github.com/sl1673495/blogs)
 
+[shotCat](https://juejin.cn/user/2365804752420632/posts)
+
 [luqin/awesome-front-end](https://github.com/luqin/awesome-front-end)
 
 [sunshine 小小倩](https://juejin.cn/user/1538971967685032/posts)
@@ -81,6 +87,8 @@
 [荒山](https://juejin.cn/user/430664257386558/posts)
 
 [神三元](https://juejin.cn/user/430664257382462/posts)
+
+[ssh_晨曦时梦见兮](https://juejin.cn/user/2330620350708823/posts)
 
 [山月的琐碎博客记录](https://shanyue.tech/)
 
@@ -103,6 +111,8 @@
 [唐霜的博客\_编程的时候我叫“否子戈”！](https://www.tangshuang.net/frontend)
 
 ## 源码学习
+
+[一年内的前端看不懂前端框架源码怎么办？](https://www.zhihu.com/question/350289336)
 
 [forthealllight/blog](https://github.com/forthealllight/blog)
 

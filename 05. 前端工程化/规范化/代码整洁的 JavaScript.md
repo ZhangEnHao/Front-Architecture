@@ -1,27 +1,8 @@
-# 代码整洁的 JavaScript
-
-## 目录
-
-  1. [简介](#简介)
-  2. [变量](#变量)
-  3. [函数](#函数)
-  4. [对象和数据结构](#对象和数据结构)
-  5. [类](#类)
-  6. [SOLID](#solid)
-  7. [测试](#测试)
-  8. [并发](#并发)
-  9. [错误处理](#错误处理)
-  10. [格式化](#格式化)
-  11. [注释](#注释)
-  12. [Translation](#translation)
-
 ## 简介
 
 ![一张用你阅读代码时吐槽的数量来评估软件质量的搞笑图片](http://www.osnews.com/images/comics/wtfm.jpg)
 
-将源自 Robert C. Martin 的 [*Clean Code*](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
-的软件工程原则适配到 JavaScript 。 这不是一个代码风格指南， 它是一个使用 JavaScript 来生产
-可读的， 可重用的， 以及可重构的软件的指南。
+将源自 Robert C. Martin 的 [*Clean Code*](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)的软件工程原则适配到 JavaScript 。 这不是一个代码风格指南， 它是一个使用 JavaScript 来生产可读的， 可重用的， 以及可重构的软件的指南。
 
 这里的每一项原则都不是必须遵守的， 甚至只有更少的能够被广泛认可。 这些仅仅是指南而已， 但是却是
 *Clean Code* 作者多年经验的结晶。

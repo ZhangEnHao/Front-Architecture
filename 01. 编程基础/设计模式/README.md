@@ -3,3 +3,5 @@
 [JavaScript 设计模式](https://www.w3cschool.cn/zobyhd/)
 
 [学用 JavaScript 设计模式](https://www.oschina.net/translate/learning-javascript-design-patterns?lang=chs&p=1)
+
+[Java 设计模式：23 种设计模式全面解析（超级详细）](http://c.biancheng.net/design_pattern/)

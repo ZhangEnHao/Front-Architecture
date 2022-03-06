@@ -1,5 +1,11 @@
 [Promise 的源码实现（完美符合 Promise/A+规范）](https://juejin.cn/post/6844903796129136654)
 
+[从一道让我失眠的 Promise 面试题开始，深入分析 Promise 实现细节](https://juejin.cn/post/6945319439772434469)
+
+[typescript 实现Promise](https://juejin.cn/post/6891929868851347469)
+
+[V8 Promise源码全面解读](https://juejin.cn/post/7055202073511460895)
+
 ## Promise/A+ 规范
 
 在编写 `Promise` 之前，必须了解 Promise/A+ 规范。由于内容较长，下面总结了几点，更详细的内容可以查阅 [Promise/A+ 规范](https://promisesaplus.com/)。

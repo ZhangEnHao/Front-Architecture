@@ -1,8 +1,8 @@
-[Webpack 4 配置最佳实践](https://juejin.cn/post/6844903624632434702)
-
 [一文掌握Webpack编译流程](https://mp.weixin.qq.com/s?__biz=MzI0MTUxOTE5NQ==&mid=2247484030&idx=1&sn=d630d4b3995bbfd50f99e781074acfeb)
 
 ## 原理
+
+[Webpack](https://juejin.cn/column/7031912597133721631)
 
 [webpack构建步骤](https://www.cxymsg.com/guide/webpack.htm)
 

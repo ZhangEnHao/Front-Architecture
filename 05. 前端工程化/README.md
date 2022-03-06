@@ -62,3 +62,9 @@ eg: [前端工程化内容](../images/FrontEngineerInfo.jpg)
 [前端工程之模块化](http://fex.baidu.com/blog/2014/03/fis-module/)
 
 [fouber/blog](https://github.com/fouber/blog)
+
+[Tecvan](https://juejin.cn/user/1820446985555544/posts)
+
+[前端编译和工程化](https://juejin.cn/column/6992030342987120677)
+
+[你真的了解package.json吗？来看看吧，这可能是最全的package解析](https://juejin.cn/post/6987179395714646024)

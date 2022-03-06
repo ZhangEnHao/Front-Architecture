@@ -22,6 +22,10 @@
 
 例如我自己，canvas 和 svg 我都没实际用过，它们的一些细节我也不知道。但它们在我的知识体系里，我知道他们是网页做图形的，如果哪天用到了，我至少知道这些技术方案，还能快速的查一查学一学，做点基本的工作。
 
+[如何才能跨过前端的高级级别，譬如腾讯的t3-1,或者是阿里的p7。平时的前端知识并不足够跨过这个门槛?](https://www.zhihu.com/question/59747367)
+
+[为什么招聘高级前端开发这么难？](https://www.zhihu.com/question/293047616)
+
 ## 知识体系
 
 [what-is-fe](https://what-is-fe.gitee.io/)
@@ -35,6 +39,8 @@
 [写给初中级前端的高级进阶指南（万字路线）](https://mp.weixin.qq.com/s/0jtVxlh-toEmNbwJpIfAuA)
 
 ### 博客
+
+[19组清风](https://juejin.cn/user/307518987049112/columns)
 
 [前端程序员炼成手册](https://www.yuque.com/jeffwcx/festudy)
 
@@ -52,11 +58,15 @@
 
 [前端学习资源整理](https://github.com/yinguangyao/blog/issues/22)
 
+[追逐、](https://blog.csdn.net/qq_29722281)
+
 [KieSun/Dream](https://github.com/KieSun/Dream)
 
 [cucygh/fe-material](https://github.com/cucygh/fe-material)
 
 [woai3c/Front-end-articles](https://github.com/woai3c/Front-end-articles)
+
+[Web](https://github.com/qianguyihao/Web)
 
 ### 补充和拓展
 
@@ -71,6 +81,8 @@
 [shotCat](https://juejin.cn/user/2365804752420632/posts)
 
 [luqin/awesome-front-end](https://github.com/luqin/awesome-front-end)
+
+[写代码的海怪](https://juejin.cn/user/272334614432887)
 
 [sunshine 小小倩](https://juejin.cn/user/1538971967685032/posts)
 

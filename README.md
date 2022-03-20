@@ -12,8 +12,6 @@
 
 也不要盲目学习，要看你的定位、职业发展和市场的需求。不要把有限的精力用于无限的知识扩展，要把所学的知识用起来。
 
-“世界上宽广的，世界不是高深的” —— 有人评价王垠。
-
 ## 关于知识盲区
 
 一定要允许自己有知识盲区，甚至可以有很多的知识盲区。—— 但是，要把这些盲区也纳入到你的体系中。即，你可以没用过、不知道细节，但是你得知道它叫啥，它是干嘛的。
@@ -39,6 +37,8 @@
 [写给初中级前端的高级进阶指南（万字路线）](https://mp.weixin.qq.com/s/0jtVxlh-toEmNbwJpIfAuA)
 
 ### 博客
+
+[大厂面试题每日一题](https://q.shanyue.tech/)
 
 [19组清风](https://juejin.cn/user/307518987049112/columns)
 
@@ -108,13 +108,13 @@
 
 [舒丽琦的 Blog](https://shuliqi.github.io/)
 
-[WenYuan's Blog](https://www.wenyuanblog.com/)
+[WenYuan&#39;s Blog](https://www.wenyuanblog.com/)
 
 [NowhereToRun](https://www.jianshu.com/u/188dbb9e01d5)
 
 [ChockCoco](https://www.cnblogs.com/coco1s/)
 
-[Bougie's Blog](https://www.bougieblog.cn/)
+[Bougie&#39;s Blog](https://www.bougieblog.cn/)
 
 [编程技术分享](https://www.zhihu.com/column/c_1056848825012023296)
 
@@ -131,8 +131,6 @@
 ## 课程学习
 
 [再学 JavaScript ES(6-11)全版本语法大全](https://coding.imooc.com/class/chapter/444.html#Anchor)
-
-[2021 必修 CSS 架构系统精讲](https://coding.imooc.com/class/501.html#Anchor)
 
 ## 业界大佬
 

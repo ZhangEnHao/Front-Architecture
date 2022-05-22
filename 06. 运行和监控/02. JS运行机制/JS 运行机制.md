@@ -4,6 +4,8 @@
 
 js 引擎（ 如 V8 ）
 
+[V8如何执行JavaScript代码？](https://mp.weixin.qq.com/s/iIrekYhl4aVp7lGoH2GL4Q)
+
 内存机制
 
 垃圾回收机制

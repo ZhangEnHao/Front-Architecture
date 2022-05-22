@@ -1,3 +1,5 @@
+[【Webpack 深度实践系列】 CSS提取时的依赖图修正](https://mp.weixin.qq.com/s/qmLEX7iL5RHTPpd-MI2yEQ)
+
 [一文掌握Webpack编译流程](https://mp.weixin.qq.com/s?__biz=MzI0MTUxOTE5NQ==&mid=2247484030&idx=1&sn=d630d4b3995bbfd50f99e781074acfeb)
 
 ## 原理

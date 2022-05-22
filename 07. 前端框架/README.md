@@ -1,3 +1,7 @@
+[深入聊聊 JavaScript 框架](https://mp.weixin.qq.com/s/ZiB5PXZRJeeN9fqtKdsi3Q)
+
+[谈谈 React 框架运行时优化方案的演进](https://mp.weixin.qq.com/s/tjZVXE6Gw_a0VrYloIh6jQ)
+
 [精读《单页应用的数据流方案探索》](https://github.com/ascoders/blog/issues/18)
 
 [精读《dob - 框架实现》](https://github.com/ascoders/weekly/blob/master/%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF/35.%E7%B2%BE%E8%AF%BB%E3%80%8Adob%20-%20%E6%A1%86%E6%9E%B6%E5%AE%9E%E7%8E%B0%E3%80%8B.md)

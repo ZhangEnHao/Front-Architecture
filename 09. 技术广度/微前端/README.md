@@ -66,7 +66,6 @@
 
 原生优先使用浏览器事件进行通信，而不要使用自封装的发布订阅系统。如果确实必须跨应用进行通信，尽量让通信内容和方式变得简单，这样能有效地减少微应用之间的公共依赖。
 
-
 ## 微前端架构模式
 
 了解完微前端的基本原理之后再来看看具体是如何实现的。微前端架构按集成微应用的位置不同，主要可以分为 2 类：
@@ -134,3 +133,9 @@
 [万字长文+图文并茂+全面解析微前端框架 qiankun 源码](https://github.com/a1029563229/blogs/blob/master/Source-Code/qiankun/1.md)
 
 [微前端架构推进参考资料汇总](https://github.com/iuap-design/blog/issues/382)
+
+[手把手教你写一个简易的微前端框架](https://zhuanlan.zhihu.com/p/473203787)
+
+[微前端究竟是什么？微前端核心技术揭秘！](https://zhuanlan.zhihu.com/p/492152857)
+
+[【微前端】1174- 有赞美业微前端的落地总结](https://cloud.tencent.com/developer/article/1920903)

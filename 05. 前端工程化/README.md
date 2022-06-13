@@ -107,3 +107,11 @@ eg: [前端工程化内容](../images/FrontEngineerInfo.jpg)
 [前端工程化：如何使用monorepo进行多项目的高效管理](https://juejin.cn/post/7043990636751503390)
 
 [Changesets: 流行的 Monorepo 场景发包工具](https://mp.weixin.qq.com/s/QKqaO3U1gzwWb2sDiF4cLQ)
+
+[vite-essentials](https://github.com/zce/vite-essentials)
+
+[谁能介绍下web前端工程化？](https://www.zhihu.com/question/24558375)
+
+[新手的对于前端组件化开发的一些疑问？](https://www.zhihu.com/question/53376712)
+
+[一个专业的『前端工程化体系』是如何建立的？](https://www.zhihu.com/question/279540558)

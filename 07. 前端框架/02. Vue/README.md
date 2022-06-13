@@ -8,6 +8,8 @@
 
 ## Vue 原理
 
+[learnVue](https://github.com/answershuto/learnVue)
+
 [剖析 Vue.js 内部运行机制](https://juejin.cn/book/6844733705089449991)
 
 [Vue.js 技术揭秘](https://ustbhuangyi.github.io/vue-analysis/)

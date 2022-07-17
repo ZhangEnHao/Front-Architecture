@@ -10,7 +10,7 @@ function newInstance() {
   newInstance.target = constructor;
 
   // 1、创建一个空对象实例
-  let target = new Object();
+  // let target = new Object();
 
   // 2、原型链连接
   // 不建议使用 __proto__直接用 Object.create 实现

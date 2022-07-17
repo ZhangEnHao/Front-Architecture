@@ -20,9 +20,7 @@
 
 例如我自己，canvas 和 svg 我都没实际用过，它们的一些细节我也不知道。但它们在我的知识体系里，我知道他们是网页做图形的，如果哪天用到了，我至少知道这些技术方案，还能快速的查一查学一学，做点基本的工作。
 
-[如何才能跨过前端的高级级别，譬如腾讯的t3-1,或者是阿里的p7。平时的前端知识并不足够跨过这个门槛?](https://www.zhihu.com/question/59747367)
-
-[为什么招聘高级前端开发这么难？](https://www.zhihu.com/question/293047616)
+[天生不聪明](https://mp.weixin.qq.com/s?__biz=MzU4NTIxODYwMQ==&mid=2247483856&idx=1&sn=47a72cee1190aefc06c24fea78f78484&scene=21#wechat_redirect)
 
 ## 知识体系
 
@@ -34,15 +32,27 @@
 
 [从输入 URL 到页面加载的过程？如何由一道题完善自己的前端知识体系！](https://dailc.github.io/2018/03/12/whenyouenteraurl.html)
 
+[当···时发生了什么？](https://github.com/skyline75489/what-happens-when-zh_CN)
+
+[从输入 URL 到页面加载完成的过程中都发生了什么事情？](https://fex.baidu.com/blog/2014/05/what-happen/)
+
+[细说浏览器输入 URL 后发生了什么](https://juejin.cn/post/6844904054074654728)
+
 [写给初中级前端的高级进阶指南（万字路线）](https://mp.weixin.qq.com/s/0jtVxlh-toEmNbwJpIfAuA)
 
+[如何才能跨过前端的高级级别，譬如腾讯的 t3-1,或者是阿里的 p7。平时的前端知识并不足够跨过这个门槛?](https://www.zhihu.com/question/59747367)
+
+[为什么招聘高级前端开发这么难？](https://www.zhihu.com/question/293047616)
+
 ### 博客
+
+[DDFE-blog](https://github.com/DDFE/DDFE-blog)
 
 [接水怪](https://github.com/ponkans/F2E)
 
 [大厂面试题每日一题](https://q.shanyue.tech/)
 
-[19组清风](https://juejin.cn/user/307518987049112/columns)
+[19 组清风](https://juejin.cn/user/307518987049112/columns)
 
 [前端程序员炼成手册](https://www.yuque.com/jeffwcx/festudy)
 
@@ -70,9 +80,11 @@
 
 [Web](https://github.com/qianguyihao/Web)
 
+[ljianshu/Blog](https://github.com/ljianshu/Blog)
+
 ### 补充和拓展
 
-[github上有哪些有趣、实用的前端开源项目？](https://www.zhihu.com/question/263903216/answer/2268662646)
+[github 上有哪些有趣、实用的前端开源项目？](https://www.zhihu.com/question/263903216/answer/2268662646)
 
 [前端精读](https://github.com/ascoders/weekly)
 
@@ -83,6 +95,8 @@
 [ascoders/blog](https://github.com/ascoders/blog/issues)
 
 [sl1673495/blogs](https://github.com/sl1673495/blogs)
+
+[刘小夕](https://juejin.cn/user/3368559358523944/posts)
 
 [shotCat](https://juejin.cn/user/2365804752420632/posts)
 
@@ -106,7 +120,7 @@
 
 [神三元](https://juejin.cn/user/430664257382462/posts)
 
-[ssh_晨曦时梦见兮](https://juejin.cn/user/2330620350708823/posts)
+[ssh\_晨曦时梦见兮](https://juejin.cn/user/2330620350708823/posts)
 
 [山月的琐碎博客记录](https://shanyue.tech/)
 
@@ -155,7 +169,6 @@
 [GeekPlux](https://geekplux.com/)
 
 [陈惠超的博客](https://chenhuichao.com/)
-
 
 ## 如何看待网红前端现象
 

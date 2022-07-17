@@ -2,6 +2,8 @@
 
 [[译] 什么是 JavaScript 生成器？如何使用生成器？](https://juejin.cn/post/6844903616357072910)
 
-[JS 高级之手写一个Promise,Generator,async和 await](https://juejin.cn/post/6844904022223110151)
+[JS 高级之手写一个 Promise,Generator,async 和 await](https://juejin.cn/post/6844904022223110151)
 
-[9k字 | Promise/async/Generator实现原理解析](https://juejin.cn/post/6844904096525189128)
+[9k 字 | Promise/async/Generator 实现原理解析](https://juejin.cn/post/6844904096525189128)
+
+[剖析 Promise 内部结构，一步一步实现一个完整的、能通过所有 Test case 的 Promise 类 ](https://github.com/xieranmaya/blog/issues/3)

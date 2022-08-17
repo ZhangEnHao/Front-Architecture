@@ -1,8 +1,8 @@
 export default algorithm = {
   groupByKey: function(array, key) {
-    return array.reduce(function (item, index) {
-      (item[index[key]] = item[index[key]] || []).push(index);
-      return item;
+    return array.reduce(function (pre, cur) {
+      (pre[cur[key]] = pre[cur[key]] || []).push(cur);
+      return pre;
     }, {});
   },
 

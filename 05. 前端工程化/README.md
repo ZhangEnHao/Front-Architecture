@@ -1,5 +1,7 @@
 # 什么是前端工程化
 
+前端工程化是指围绕代码处理的一系列工具链，他们把代码当作字符串处理，并不运行代码，包括编译构建、静态分析、格式化、CI/CD 等等。
+
 工程化：所有能降低成本，并且能提高效率的事情。
 
 前端工程化就是通过各种工具和技术，提升前端开发效率的过程。一切以提高性能、稳定性、可用性、可维护性等目标的工作统称。
@@ -115,3 +117,9 @@ eg: [前端工程化内容](../images/FrontEngineerInfo.jpg)
 [新手的对于前端组件化开发的一些疑问？](https://www.zhihu.com/question/53376712)
 
 [一个专业的『前端工程化体系』是如何建立的？](https://www.zhihu.com/question/279540558)
+
+[你能给前端工程化下个定义么？](https://mp.weixin.qq.com/s/5w-y1eb07IqJ9zfYUwVzbQ)
+
+[5分钟搭一个企业级脚手架](https://mp.weixin.qq.com/s/kKStWjNqpavJYeJpiH3Byw)
+
+[超全面的前端工程化配置指南](https://mp.weixin.qq.com/s/3_gZ9vNZixK_qZdWu9Dyhw)

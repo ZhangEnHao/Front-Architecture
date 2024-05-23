@@ -21,7 +21,7 @@ function axios({ url, method = "GET", params = {}, data = {} }) {
       if (request.readyState !== 4) {
         return;
       }
-      // 如果响应状态码在[200, 300)之间代表成功，否则失败
+      // 如果响应状态码在 [200, 300) 之间代表成功，否则失败
       const { status, statusText } = request;
 
       // 2.1 成功执行 resolve()

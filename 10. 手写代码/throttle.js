@@ -31,7 +31,7 @@ function throttle(func, wait, options) {
     // 首次进入前者肯定为 true
     // 如果需要第一次不执行函数
     // 就将上次时间戳设为当前的
-    // 这样在接下来计算 remaining 的值时会大于0
+    // 这样在接下来计算 remaining 的值时会大于 0
     if (!previous && options.leading === false) previous = now;
     // 计算剩余时间
     let remaining = wait - (now - previous);
@@ -43,8 +43,8 @@ function throttle(func, wait, options) {
     // 如果没有设置 leading，那么第一次会进入这个条件
     // 还有一点，你可能会觉得开启了定时器那么应该不会进入这个 if 条件了
     // 其实还是会进入的，因为定时器的延时
-    // 并不是准确的时间，很可能你设置了2秒
-    // 但是他需要2.2秒才触发，这时候就会进入这个条件
+    // 并不是准确的时间，很可能你设置了 2 秒
+    // 但是他需要 2.2 秒才触发，这时候就会进入这个条件
     if (remaining <= 0 || remaining > wait) {
       // 如果存在定时器就清理掉否则会调用二次回调
       if (timeout) {

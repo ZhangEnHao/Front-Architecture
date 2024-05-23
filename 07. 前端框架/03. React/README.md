@@ -98,7 +98,7 @@ React 中优化组件重渲染，这里有几个隐含的知识点。[optimize-r
 
 [React 技术揭秘](https://react.iamkasong.com/)
 
-[从零搭建完整的 React 项目模板(Webpack + React hooks + Mobx + Antd) 【演戏演全套】](https://juejin.cn/post/6844904035099623437)
+[从零搭建完整的 React 项目模板 (Webpack + React hooks + Mobx + Antd) 【演戏演全套】](https://juejin.cn/post/6844904035099623437)
 
 [KieSun/Chat-Buy-React](https://github.com/KieSun/Chat-Buy-React)
 
@@ -109,3 +109,52 @@ React 中优化组件重渲染，这里有几个隐含的知识点。[optimize-r
 [【React 深入】从 Mixin 到 HOC 再到 Hook](https://juejin.cn/post/6844903815762673671)
 
 [React 16 加载性能优化指南](https://mp.weixin.qq.com/s/XSvhOF_N0VbuOKStwi0IYw)
+
+
+[这届面试官，不讲武德](https://mp.weixin.qq.com/s?__biz=MzUyNDYxNDAyMg==&mid=2247487236&idx=2&sn=63df5ed013ac03f586e17bd6a85bd0e8&chksm=fa2befedcd5c66fb7a6c9887e36e295702a5a60c48f5486d4f321cf47ca545510c68b93437a6&scene=126&&sessionid=1664420263#rd)
+
+[React 组件到底什么时候 render 啊](https://mp.weixin.qq.com/s?__biz=MzUyNDYxNDAyMg==&mid=2247486914&idx=2&sn=b464b81a317f87c8619987cce54abc93&chksm=fa2bed2bcd5c643d511edf5d70812d13e420e1650879e173ac8e95477e562c56a3dc8ea049a4&scene=126&&sessionid=1664420268#rd)
+
+[这可能是最通俗的 React Fiber(时间分片) 打开方式](https://juejin.cn/post/6844903975112671239)
+
+[15 年经验老外，5 小时免费带你完成一个全栈项目（React / Node）](https://mp.weixin.qq.com/s?__biz=MzUyNDYxNDAyMg==&mid=2247485471&idx=1&sn=3509b05a0fdc5b021c9e46bcd32f390c&chksm=fa2be8f6cd5c61e01ec714a4bf50c55b573971d476e40d233c1aa6383ab658903a26140a3b5c&scene=126&&sessionid=1664420280#rd)
+
+[如何学习 React 源码](https://mp.weixin.qq.com/s?__biz=MzUyNDYxNDAyMg==&mid=2247486362&idx=2&sn=5947011c78bde650e4b20bbd38b227d2&chksm=fa2beb73cd5c62659d742842f7b97bbdcc1f121d3987dac2581e9a67969aa0e8f37f2b98e5ce&scene=126&&sessionid=1664420274#rd)
+
+[React17 虽无新特性，但是底层代码已经大变样！](https://mp.weixin.qq.com/s?__biz=MzUyNDYxNDAyMg==&mid=2247486367&idx=1&sn=395a2d4cc8f487a8bf8892e1b0ca6cc3&chksm=fa2beb76cd5c626019c82f3eee39268d2262f99576c8fe90bac9f63cdc4f7f52528a10fd71fe&scene=126&&sessionid=1664420274#rd)
+
+[关于 useState 的一切](https://mp.weixin.qq.com/s?__biz=MzUyNDYxNDAyMg==&mid=2247486507&idx=2&sn=7a6e278b5be63c97866a3130e5cb4a2e&chksm=fa2becc2cd5c65d452e3b62270e0c481bfa13db72819ea0e949ffe2b1191caaaec123edbc915&scene=126&&sessionid=1664420274#rd)
+
+[我在阿里写 React，学到了什么？](https://mp.weixin.qq.com/s?__biz=MzUyNDYxNDAyMg==&mid=2247486839&idx=1&sn=97d365df9005d89e4cdc0c18a96252d2&chksm=fa2bed9ecd5c6488c19b6a75a0a87242dc37d6930643cdc59538dc55c5eea6bbb1961da8d0c9&scene=126&&sessionid=1664420269#rd)
+
+[我在 BAT 写 React 是如何进行性能优化的](https://mp.weixin.qq.com/s?__biz=MzUyNDYxNDAyMg==&mid=2247486903&idx=1&sn=b07ffe622b56253df176bb891b597b06&chksm=fa2bed5ecd5c6448e240fa8bb57562a1034e87eaecb6fed6f0174edc8867db41daa10c999d8a&scene=126&&sessionid=1664420268#rd)
+
+[跟着官方文档能学懂 React 就怪了](https://mp.weixin.qq.com/s?__biz=MzUyNDYxNDAyMg==&mid=2247487413&idx=1&sn=c220ad27008d85a3e38d424de114f754&chksm=fa2bef5ccd5c664a82694365d431836da10272519dfbb4a086439641c45dfb818f58f2496ca2&scene=126&&sessionid=1664420260#rd)
+
+[5 分钟学会 1 个 React 原理！](https://mp.weixin.qq.com/s?__biz=MzUyNDYxNDAyMg==&mid=2247487911&idx=1&sn=aee1f5df5a2d51c51dd320c2925c5448&chksm=fa2bf14ecd5c78588e02b2a85154120b36afbdc1dd785eb01a599d259921c46804307a1e714f&scene=126&&sessionid=1664420257#rd)
+
+[React17 在我看来是这样的](https://mp.weixin.qq.com/s?__biz=MzUyNDYxNDAyMg==&mid=2247488141&idx=2&sn=656006fad708a9ca02f2c6b68d9dfab1&chksm=fa2bf264cd5c7b72ebe8885b89e479cbf26bbfea841d961257286b0a920ccc8b6911295eb8f3&scene=126&&sessionid=1664519638#rd)
+
+[一篇必看的 React 文章](https://mp.weixin.qq.com/s?__biz=MzUyNDYxNDAyMg==&mid=2247488149&idx=2&sn=c107baf0c28d47c327d965d7d49861fb&chksm=fa2bf27ccd5c7b6a93b35e3de497d7bbcf464bdaa0b463fba8215f0ef7a11b5e83a6b61c5052&scene=126&&sessionid=1664519637#rd)
+
+[写给进阶玩家的 React 事件系统原理](https://mp.weixin.qq.com/s?__biz=MzUyNDYxNDAyMg==&mid=2247489255&idx=2&sn=6d516b183d84a1a07957926bd132c347&chksm=fa2bf60ecd5c7f1879f0f67cb4efc7419dd328d54f39ebcb439e7af9e7ef97ec0649c737bd86&scene=126&&sessionid=1664519625#rd)
+
+[手写简易版 React 来彻底搞懂 fiber 架构](https://mp.weixin.qq.com/s?__biz=MzUyNDYxNDAyMg==&mid=2247490489&idx=1&sn=e58f499973e9bf69645513e55f7ccaba&chksm=fa2bfb50cd5c7246ae5e2b3ca2fe1bf14a33aebbb4181182cffdf668986ec5e5516665a987b5&scene=126&&sessionid=1664519599#rd)
+
+[图解 React 的 diff 算法：核心就两个字 —— 复用](https://mp.weixin.qq.com/s?__biz=MzUyNDYxNDAyMg==&mid=2247490831&idx=1&sn=27e5b7a524c2e7a0babba747447aef51&chksm=fa2bfde6cd5c74f0cc778660d7342b7864cb79535dcbae947b5941effe8a5de15f2b4e537b8d&scene=126&&sessionid=1664519593#rd)
+
+[全网最优雅的 React 源码调试方式](https://mp.weixin.qq.com/s?__biz=MzUyNDYxNDAyMg==&mid=2247490797&idx=1&sn=05da8d6b763d7cb2fdaee370dc52b33f&chksm=fa2bfc04cd5c75126c39909547223298fcda0388a567771e7c4ae7404737429b98c04fb02cc4&scene=126&&sessionid=1664519593#rd)
+
+
+
+
+
+
+
+
+
+
+
+
+
+

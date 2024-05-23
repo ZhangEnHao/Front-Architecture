@@ -210,3 +210,5 @@ git push --mirror https://github.com/exampleuser/new-repository.git
 ### 2018-06
 
 - [聊下 git pull --rebase](https://www.cnblogs.com/wangiqngpei557/p/6056624.html)
+
+[Git 出现问题怎么办？删库跑路前先来阅读本指南](https://mp.weixin.qq.com/s?__biz=MzUyNDYxNDAyMg==&mid=2247485661&idx=1&sn=1f08de03e398a213422c12655a3afc06&chksm=fa2be834cd5c61225d7300cd9bef32e527d99cdf88e2deb40864340fe633272b787db2137708&scene=126&&sessionid=1664420278#rd)

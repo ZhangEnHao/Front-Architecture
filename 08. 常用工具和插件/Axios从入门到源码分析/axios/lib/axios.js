@@ -14,7 +14,7 @@ var defaults = require('./defaults');
  * @return {Axios} A new instance of Axios
  * 
  * axios 与 Axios 的关系：
- * 1. 从语法上来说，axios 不是 Axios 的实例。axios 是 Axios.prototype.request函
+ * 1. 从语法上来说，axios 不是 Axios 的实例。axios 是 Axios.prototype.request 函
  * 数 bind() 返回的函数
  * 2. 从功能上来说，axios 是 Axios 的实例。axios 作为对象有 Axios 原型对象上的所有
  * 方法，有 Axios 对象上的所有属性
@@ -30,14 +30,14 @@ function createInstance(defaultConfig) {
   /**
    * Axios.prototype.request.bind(context)
    * axios 和 axios.create() 对应的就是 request 函数
-   * bind 返回一个函数实例(这里是 wrap 方法)
+   * bind 返回一个函数实例 (这里是 wrap 方法)
    * 修改 Axios.prototype.request 的 this 指向为 context
    * 执行 axios(config) 相当于执行 Axios.prototype.request(config)
    * */ 
   var instance = bind(Axios.prototype.request, context);
 
   /**
-   * 将 Axios 原型对象上的所有方法（get() / post() / put() / delete() / request()等 8 个方法）
+   * 将 Axios 原型对象上的所有方法（get() / post() / put() / delete() / request() 等 8 个方法）
    * 复制到 instance 上
    * context 作为 bind 的作用域
    * */ 
@@ -69,7 +69,7 @@ axios.Axios = Axios;
  *        / isCancel() / all() / spread() / isAxiosError()
  * 
  * */ 
-// 暴露创建 Axios 实例的工厂方法 【工厂模式】
+// 暴露创建 Axios 实例的工厂方法【工厂模式】
 axios.create = function create(instanceConfig) {
   // mergeConfig: 将用户传入的配置与默认配置进行合并
   return createInstance(mergeConfig(axios.defaults, instanceConfig));

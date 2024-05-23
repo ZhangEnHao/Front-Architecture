@@ -16,3 +16,8 @@ function is(x, y) {
 
 
 ```
+
+
+
+[JS 项目中究竟应该使用 Object 还是 Map？| 项目复盘](https://mp.weixin.qq.com/s?__biz=MzUyNDYxNDAyMg==&mid=2247488278&idx=2&sn=8e9691b8cb4bc6f0eea8831736046975&chksm=fa2bf3ffcd5c7ae996d94ec83fa4e7022c1347588b4b69bb0712d5c1f5e6090bc083a3df57c4&scene=126&&sessionid=1664519637#rd)
+

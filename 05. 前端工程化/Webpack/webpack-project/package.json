@@ -1,0 +1,68 @@
+{
+  "name": "webpack-project",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "watch": "webpack --watch --config config/webpack.dev.js",
+    "start": "webpack serve --config config/webpack.dev.js",
+    "serve:express": "node server.js",
+    "build": "webpack --config config/webpack.prod.js",
+    "build:mpa": "webpack --config config/webpack.mpa.js",
+    "build:mobile": "webpack --config config/webpack.mobile.js",
+    "build:ssr": "webpack --config config/webpack.ssr.js",
+    "analyze:stats": "webpack --config config/webpack.prod.js --json stats.json",
+    "dll": "webpack --config config/webpack.dll.js"
+  },
+  "keywords": [],
+  "author": "enhao",
+  "license": "ISC",
+  "sideEffects": [
+    "*.css",
+    "*.less",
+    "./src/mobile/*.js"
+  ],
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 10"
+  ],
+  "stylelint": {
+    "extends": "stylelint-config-standard",
+    "rules": {}
+  },
+  "devDependencies": {
+    "@babel/core": "^7.16.7",
+    "@babel/preset-env": "^7.16.7",
+    "autoprefixer": "^10.4.1",
+    "babel-loader": "^8.2.3",
+    "css-loader": "^6.5.1",
+    "css-minimizer-webpack-plugin": "^3.3.1",
+    "express": "^4.17.3",
+    "friendly-errors-webpack-plugin": "^1.7.0",
+    "glob": "^7.2.0",
+    "html-webpack-plugin": "^5.5.0",
+    "less": "^4.1.2",
+    "less-loader": "^10.2.0",
+    "mini-css-extract-plugin": "^2.4.5",
+    "postcss-loader": "^6.2.1",
+    "postcss-pxtorem": "^6.0.0",
+    "progress-bar-webpack-plugin": "^2.1.0",
+    "purgecss-webpack-plugin": "^4.1.3",
+    "speed-measure-webpack-plugin": "^1.5.0",
+    "style-loader": "^3.3.1",
+    "stylelint": "^14.2.0",
+    "stylelint-config-standard": "^24.0.0",
+    "stylelint-webpack-plugin": "^3.1.0",
+    "thread-loader": "^3.0.4",
+    "webpack": "^5.65.0",
+    "webpack-bundle-analyzer": "^4.5.0",
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-middleware": "^5.3.0",
+    "webpack-dev-server": "^4.7.2",
+    "webpack-merge": "^5.8.0"
+  },
+  "dependencies": {
+    "lib-flexible": "^0.3.2"
+  }
+}

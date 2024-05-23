@@ -3,7 +3,7 @@
  *
  * @param  {function} func        回调函数
  * @param  {number}   wait        表示时间窗口的间隔
- * @param  {boolean}  immediate   设置为ture时，是否立即调用函数
+ * @param  {boolean}  immediate   设置为 ture 时，是否立即调用函数
  * @return {function}             返回客户调用函数
  */
  function debounce (func, wait = 50, immediate = true) {

@@ -86,10 +86,6 @@
 
 [力扣面试题](https://github.com/LeetCode-OpenSource/hire/blob/master/typescript_zh.md)
 
-
-
-
-
 ## 文档
 
 [TypeScript Handbook](https://zhongsp.gitbooks.io/typescript-handbook/content/)
@@ -109,3 +105,13 @@
 [type-challenges](https://github.com/type-challenges/type-challenges)
 
 [TypeScript exercises](https://github.com/typescript-exercises/typescript-exercises)
+
+[TS 已经 4.0，这份免费学习路线和资料了解下](https://mp.weixin.qq.com/s?__biz=MzUyNDYxNDAyMg==&mid=2247486469&idx=1&sn=9bfd274749a423487a66c11e2bf9b76f&chksm=fa2bececcd5c65fa9bdbd3fc7e120d694b63e713d7a0c34ea3d678e2500f06837ae147acaea9&scene=126&&sessionid=1664420274#rd)
+
+[想去力扣（大厂）当前端，TypeScript 需要掌握到什么程度？](https://mp.weixin.qq.com/s?__biz=MzUyNDYxNDAyMg==&mid=2247486536&idx=2&sn=d2faf69df860289cd9eae531d1bec38b&chksm=fa2beca1cd5c65b7145d70245f293a5944f7f5ea136decde442dedceb955506d37e995bbc61f&scene=126&&sessionid=1664420274#rd)
+
+[「1.8W 字」TS 学习指南，从零学到熟练](https://mp.weixin.qq.com/s?__biz=MzUyNDYxNDAyMg==&mid=2247486635&idx=1&sn=5bd8947165f5a66c3a49647b15ed4a97&chksm=fa2bec42cd5c6554fe8c9fe136d61c3dd6bbeb2dcb9e0a1afde96f8f15602581ac2f52e10188&scene=126&&sessionid=1664420272#rd)
+
+[TypeScript 想更深入一层？我推荐自定义 transformer 的 compiler api](https://mp.weixin.qq.com/s?__biz=MzUyNDYxNDAyMg==&mid=2247490154&idx=2&sn=9e77618a47f96e41b72c1a9ebb32a036&chksm=fa2bfa83cd5c7395e76023b4e4f2641bb9f340cf466ae73fb00cbe73595596cf516af5e633c6&scene=126&&sessionid=1664519608#rd)
+
+[编译 ts 代码用 tsc 还是 babel？](https://mp.weixin.qq.com/s?__biz=MzUyNDYxNDAyMg==&mid=2247490744&idx=2&sn=cc28a14759688c7c5c940b196083d792&chksm=fa2bfc51cd5c7547fa97e2b83ab27e0d0526b2f9d7d6c64f3ba9bc96ab9c0302a3edf557ebea&scene=126&&sessionid=1664519595#rd)

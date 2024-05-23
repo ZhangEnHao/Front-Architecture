@@ -21,3 +21,5 @@
 [electron-vue-cloud-music](https://github.com/xiaozhu188/electron-vue-cloud-music)
 
 [electron-builder](electron-builder)
+
+[用了那么久 VSCode，这玩意到底是怎么跑起来的](https://mp.weixin.qq.com/s?__biz=MzUyNDYxNDAyMg==&mid=2247489529&idx=2&sn=5ec98d2221a881e6a195bf869b4cbb16&chksm=fa2bf710cd5c7e06e5b3b8636b1bbf7676346a2821295b7b428ee5f852418516fa8d80b1f280&scene=126&&sessionid=1664519621#rd)

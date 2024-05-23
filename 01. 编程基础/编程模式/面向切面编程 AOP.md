@@ -42,13 +42,6 @@ func = func.before(function() {
 func(); // 按顺序打印出1，2，3
 ```
 
-
-
-
-
-
 参考文章：
 
-  - [Js 面向切面编程 AOP](https://blog.lbinin.com/frontEnd/JavaScript/JS-AOP.html#%E6%97%A0%E4%BE%B5%E5%85%A5%E7%9A%84%E7%BB%9F%E8%AE%A1%E4%BB%A3%E7%A0%81)
-
-  
+-   [Js 面向切面编程 AOP](https://blog.lbinin.com/frontEnd/JavaScript/JS-AOP.html#%E6%97%A0%E4%BE%B5%E5%85%A5%E7%9A%84%E7%BB%9F%E8%AE%A1%E4%BB%A3%E7%A0%81)

@@ -1,6 +1,6 @@
 /**
  * 
- * [js小数的数学运算和四舍五入精度问题](https://juejin.im/post/5e3bb243f265da573a01e396)
+ * [js 小数的数学运算和四舍五入精度问题](https://juejin.im/post/5e3bb243f265da573a01e396)
  */ 
 
 /**

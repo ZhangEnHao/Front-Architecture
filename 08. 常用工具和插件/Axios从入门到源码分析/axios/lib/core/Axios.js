@@ -100,7 +100,7 @@ Axios.prototype.request = function request(config) {
      * 数组的右边放响应拦截器函数
      * */ 
     // 连接拦截器中间件
-    // undefined: 后面需要两两取出, 用于占位
+    // undefined: 后面需要两两取出，用于占位
     var chain = [dispatchRequest, undefined];
 
     Array.prototype.unshift.apply(chain, requestInterceptorChain);
@@ -109,11 +109,11 @@ Axios.prototype.request = function request(config) {
     // 将 config 转换为 promise, 同时后续 config 将作为参数进行传递
     promise = Promise.resolve(config);
 
-    // 通过上面的步骤, 我们就形成了如下链表：
-    // request 拦截器(interceptors.request) + 发起请求的方法(dispatchRequest) + response 拦截器(interceptors.response)
+    // 通过上面的步骤，我们就形成了如下链表：
+    // request 拦截器 (interceptors.request) + 发起请求的方法 (dispatchRequest) + response 拦截器 (interceptors.response)
     // 通过 promise.then() 串联起所有的请求拦截器 / 请求方法 / 响应拦截器
     while (chain.length) {
-      // 从链表中从头连续取出2个元素，第一个作为 promise 的 resolve handler， 第二个作为 reject handler
+      // 从链表中从头连续取出 2 个元素，第一个作为 promise 的 resolve handler，第二个作为 reject handler
       promise = promise.then(chain.shift(), chain.shift());
     }
     // 返回 promise
@@ -158,7 +158,7 @@ utils.forEach(['delete', 'get', 'head', 'options'], function forEachMethodNoData
   /*eslint func-names:0*/
   Axios.prototype[method] = function(url, config) {
     // this.request: 调用 Axios.prototype.request
-    // 将参数合并为一个, config 非必填
+    // 将参数合并为一个，config 非必填
     return this.request(mergeConfig(config || {}, {
       method: method,
       url: url,
@@ -172,7 +172,7 @@ utils.forEach(['post', 'put', 'patch'], function forEachMethodWithData(method) {
   /*eslint func-names:0*/
   Axios.prototype[method] = function(url, data, config) {
     // this.request: 调用 Axios.prototype.request
-    // 将参数合并为一个, config 非必填
+    // 将参数合并为一个，config 非必填
     return this.request(mergeConfig(config || {}, {
       method: method,
       url: url,

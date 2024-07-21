@@ -97,6 +97,7 @@
 ## 基础知识
 
 [王福朋 - 我在整理 Web 前端知识体系](https://juejin.cn/post/6855129007613345805)
+[前端双越老师](https://juejin.cn/user/1714893868765373/posts)
 
 [从输入 URL 到页面加载的过程？如何由一道题完善自己的前端知识体系！](https://dailc.github.io/2018/03/12/whenyouenteraurl.html)
 
